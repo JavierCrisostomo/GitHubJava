@@ -4,7 +4,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import javax.swing.*;
 
-public class TestUI {
+public class MessageDialogExamples {
 
 	public static void main(String[] args) throws MalformedURLException
 	  {
