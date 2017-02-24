@@ -1,4 +1,4 @@
-package com.java.orion;
+package com.java.basics;
 import java.util.*;
 
 public class UsingScanner {

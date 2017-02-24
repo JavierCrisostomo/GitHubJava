@@ -1,4 +1,4 @@
-package com.java.orion;
+package com.java.basics;
 import java.awt.Image;
 import java.net.MalformedURLException;
 import java.net.URL;
